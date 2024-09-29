@@ -1,0 +1,70 @@
+{
+  "userProfiles": [
+    {
+      "firstName": "Jeremy",
+      "lastName": "Clarkson",
+      "email": "jeremy.clarkson@example.com",
+      "dateOfBirth": "1960-04-11",
+      "preferences": {
+        "theme": "dark",
+        "language": "English",
+        "notifications": {
+          "email": true,
+          "sms": false,
+          "push": true,
+          "subscription": true
+        }
+      },
+      "profile": {
+        "street": "Diddly Squat Farm",
+        "city": "Chipping Norton",
+        "state": "England",
+        "zipCode": "OX7 3HQ"
+      }
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Hammond",
+      "email": "richard.hammond@example.com",
+      "dateOfBirth": "1970-12-19",
+      "preferences": {
+        "theme": "light",
+        "language": "English",
+        "notifications": {
+          "email": true,
+          "sms": true,
+          "push": false,
+          "subscription": true
+        }
+      },
+      "profile": {
+        "street": "Weston-under-Lizard",
+        "city": "Shifnal",
+        "state": "England",
+        "zipCode": "TF11 8HW"
+      }
+    },
+    {
+      "firstName": "James",
+      "lastName": "May",
+      "email": "james.may@example.com",
+      "dateOfBirth": "1963-01-16",
+      "preferences": {
+        "theme": "dark",
+        "language": "English",
+        "notifications": {
+          "email": false,
+          "sms": true,
+          "push": true,
+          "subscription": true
+        }
+      },
+      "profile": {
+        "street": "Bognor Regis",
+        "city": "West Sussex",
+        "state": "England",
+        "zipCode": "PO21 2PZ"
+      }
+    }
+  ]
+}
